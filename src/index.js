@@ -1,6 +1,10 @@
 //1. Create a new React app.
 import React from "react";
 import ReactDOM from "react-dom";
+import ReactDOM from "react-dom";
+import ReactDOM from "react-dom";
+
+import App from "./components/App";
 //import App from "./components/App";
 
  
