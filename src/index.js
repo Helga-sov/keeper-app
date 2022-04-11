@@ -5,6 +5,7 @@ import ReactDOM from "react-dom";
 import ReactDOM from "react-dom";
 
 import App from "./components/App";
+//import App from "./components/App";
 
  
 //2. Create a App.jsx component.
